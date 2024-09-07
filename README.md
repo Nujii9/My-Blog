@@ -1,9 +1,49 @@
-<!DOCTYPE html>
+# Rubio-MyBlog.github.io
 <html lang="en">
 <head> <link rel="stylesheet" href="style.css">
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rubio-MyBlog.github.io</title>
+    <style>
+        /* Basic body styling */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20;
+            background-color: #b6baff;
+            color: #000000;
+            line-height: 1.6;
+        }
+        /* Container for the sections */
+        .container {
+            width: 90%;
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #c77e7e;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        /* Style for each section */
+        .section {
+            margin-bottom: 40px;
+        }
+        .section h2 {
+            font-size: 24px;
+            margin-bottom: 10px;
+            color: #0073e6;
+        }
+        .section p {
+            font-size: 16px;
+            color: #666;
+        }
+        /* Divider between sections */
+        hr {
+            border: 0;
+            border-top: 1px solid #ddd;
+            margin: 40px 0;
+        }
+    </style>
 </head>
 <body>
     <header>
