@@ -18,7 +18,7 @@ Quantum computing is emerging to solve complex problems beyond classical compute
 Impact on Society
 Computing has transformed communication, business, healthcare, and education but also raises concerns about cybersecurity, privacy, and the digital divide.
 
-Introduction to IT Basics
+<h2>Introduction to IT Basics</h2>
 Hardware
 Hardware: Physical components like the CPU (processes data), RAM (temporary storage), and storage devices (permanent data storage). Peripherals like keyboards and monitors allow user interaction.
 
