@@ -5,12 +5,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Rubio-MyBlog.github.io</title>
+    <body>
+    <div style="background-color: #a183e3; width: 100%; height; 100%">
+    <div style="background-color: #a8a6ad; width: 70%; height; 70%"></div>
+    </body>
     <style>
         body {
             font-family: Arial, sans-serif;
-            margin: 20px;
-            padding: 20;
-            background-color: #b6baff;
+            margin: 1.5%;
+            padding: 1.5%;
+            background-image: url("numbers.jpg");
             color: #000000;
             line-height: 1.6;
         }
@@ -41,7 +45,6 @@
         }
     </style>
 </head>
-<body>
     <header>
         <h1>Isagani C. Rubio Jr.</h1>
     </header>
@@ -91,6 +94,4 @@
             <p>IT ensures data management, seamless communication, process automation, and cybersecurity. It supports decision-making through data analysis tools.</p>
         </div>
     </section>
-
-</body>
 </html>
