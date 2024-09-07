@@ -1,5 +1,5 @@
-Isagani C. Rubio Jr.
-Historical Perspective on Computing
+<h1>Isagani C. Rubio Jr.<h1>
+<h2>Historical Perspective on Computing</h2>
 Ancient Foundations to Mechanical Era
 Early tools like the abacus (c. 2400 BCE) were used for arithmetic. In the 17th century, Pascal and Leibniz developed mechanical calculators. Babbage’s Analytical Engine (1830s) is seen as the first computer, and Ada Lovelace became the first programmer.
 
