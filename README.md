@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-# Rubio-MyBlog.github.io
 <html lang="en">
 <head> <link rel="stylesheet" href="style.css">
     <meta charset="UTF-8">
