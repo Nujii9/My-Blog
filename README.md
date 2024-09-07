@@ -20,7 +20,7 @@ Computing has transformed communication, business, healthcare, and education but
 
 <h2>Introduction to IT Basics</h2>
 Hardware
-Hardware: Physical components like the CPU (processes data), RAM (temporary storage), and storage devices (permanent data storage). Peripherals like keyboards and monitors allow user interaction.
+Physical components like the CPU (processes data), RAM (temporary storage), and storage devices (permanent data storage). Peripherals like keyboards and monitors allow user interaction.
 
 Software
 Programs and OS. Operating systems (e.g., Windows, macOS) manage hardware, while applications (e.g., browsers, word processors) perform specific tasks.
