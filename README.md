@@ -40,7 +40,7 @@
         }
         hr {
             border: 0;
-            border-top: 1px solid #ddd;
+            border-top: 1px solid #a1a1a1;
             margin: 40px 0;
         }
     </style>
