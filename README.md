@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 # Rubio-MyBlog.github.io
 <html lang="en">
 <head> <link rel="stylesheet" href="style.css">
@@ -49,7 +50,7 @@
         <h1>Historical Perspective on Computing</h1>
         <div class="description">
             <h3>Ancient Foundations to Mechanical Era</h3>
-            <p>Early tools like the abacus (c. 2400 BCE) were used for arithmetic. In the 17th century, Pascal and Leibniz developed mechanical calculators. Babbage’s Analytical Engine (1830s) is seen as the first computer, and Ada Lovelace became the first programmer.
+            <p>Early tools like the abacus (c. 2400 BCE) were used for arithmetic. In the 17th century, Pascal and Leibniz developed mechanical calculators. Babbage’s Analytical Engine (1830s) is seen as the first computer, and Ada Lovelace became the first programmer.</p>
         </div>
         <div class="description">
             <h3>Early Digital Computing</h3>
