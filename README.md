@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Rubio-MyBlog.github.io</title>
     <style>
-        /* Basic body styling */
         body {
             font-family: Arial, sans-serif;
             margin: 20px;
@@ -15,7 +14,6 @@
             color: #000000;
             line-height: 1.6;
         }
-        /* Container for the sections */
         .container {
             width: 90%;
             max-width: 1200px;
@@ -24,7 +22,6 @@
             background-color: #c77e7e;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
-        /* Style for each section */
         .section {
             margin-bottom: 40px;
         }
@@ -37,7 +34,6 @@
             font-size: 16px;
             color: #666;
         }
-        /* Divider between sections */
         hr {
             border: 0;
             border-top: 1px solid #ddd;
